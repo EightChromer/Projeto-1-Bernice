@@ -1,0 +1,71 @@
+#barrasrv{
+    box-shadow: 0px 4px 40px rgba(67, 62, 218, 0.622);
+    background-color: rgb(4, 1, 64);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: auto;
+}
+#cor2{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+barra2{
+    background-color: rgba(123, 123, 155, 0.252);
+    border-radius: 40px;
+}
+#txtlist{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#manutenção{
+    font-size: 60px;
+    text-align: center;
+}
+#textom{
+    font-size: 40px;
+    text-decoration: underline;
+    text-align: center;
+}
+#imgm{
+    border-radius: 40px;
+}
+#barrazona{
+    background-color: rgba(123, 123, 155, 0.252);
+    border-radius: 40px;
+    border-width: 20px;
+}
+#barrab{
+    background-color: rgb(255, 255, 255);
+    border-width: 20px;
+}
+#menuplus{
+    transition: transform 0.3s ease;
+  }
+  #menuplus:hover{
+    transform: scale(1.08);
+  }
+  #instalação{
+    font-size: 60px;
+}
+#txtinst{
+    font-size: 23px;
+    border-radius: 20px;
+    padding: 30px;
+    
+}
+#imginst{
+    opacity: 0.5;
+    border-radius: 30px;
+}
+#barrainst{
+    background-color: rgba(207, 205, 254, 0.622);
+    border-radius: 30px;
+}
+#fotodocara{
+    border-radius: 30px;
+    opacity: 0.8;
+}

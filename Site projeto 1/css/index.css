@@ -1,0 +1,107 @@
+#quemsoeu{
+    font-size: 25px;
+}
+#quemsomos{
+        font-size: 50px;
+}
+#promocao{
+    font-size: 30px;
+}
+.marquee-container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+  #promocao {
+    width: 100%;
+  }
+  }
+
+  #videozin{
+    margin-left: 50px;
+  }
+
+#barina{
+    box-shadow: 0px 4px 40px rgba(67, 62, 218, 0.622);
+    background-color: rgb(4, 1, 64);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+#cor{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+#barona{
+    background-color: rgba(123, 123, 155, 0.252);
+    border-radius: 40px;
+}
+#caranopc{
+  border-radius: 40px;
+  height: 450px;
+  opacity: 0.9;
+}
+#botao{
+  background: rgb(16, 215, 40);
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+#botao:hover {
+  transform: scale(1.08);
+}
+#txtbotao{
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+#menuplus{
+  transition: transform 0.3s ease;
+}
+#menuplus:hover{
+  transform: scale(1.08);
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+.container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+label {
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+textarea {
+  width: 600px;
+  height: 100px;
+  resize: none;
+  margin-bottom: 15px;
+}
+input[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: center;
+}
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+#fundoform{
+  background-color: rgba(48, 40, 156, 0.716);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
